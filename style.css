@@ -275,7 +275,7 @@ ul{
     background: linear-gradient( to right ,limegreen ,cyan);
     margin-bottom: 20px;
 }
-@media (max-width: 678px) { 
+@media (max-width: 768px) { 
     nav{
         max-width: 650px;
         zoom: 95%;
